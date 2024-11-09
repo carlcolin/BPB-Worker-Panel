@@ -4328,7 +4328,7 @@ var worker_default = {
               }
             });
           default:
-            url.hostname = "www.speedtest.net";
+            url.hostname = "alist.dokii.tk";
             url.protocol = "https:";
             request = new Request(url, request);
             return await fetch(request);
