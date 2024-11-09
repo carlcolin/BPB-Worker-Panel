@@ -4328,7 +4328,7 @@ var worker_default = {
               }
             });
           default:
-            url.hostname = "alist.dokii.tk";
+            url.hostname = "alist.skye.tk";
             url.protocol = "https:";
             request = new Request(url, request);
             return await fetch(request);
